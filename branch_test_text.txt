@@ -1,0 +1,3 @@
+another text file
+
+we will stage commit it to the branch new-branch
